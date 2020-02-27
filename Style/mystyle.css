@@ -1,0 +1,200 @@
+﻿body {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    font-family: monospace;
+    justify-content: center;
+}
+
+.center_form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.project-title {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: flex;
+    color: #7CAFDD;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 290px;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    margin-bottom: 25px;
+}
+
+
+#btnCalculate {
+    margin-left: 180px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 0.5px solid black;
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    font-size: 15px;
+}
+
+#btnClear {
+    border-radius: 5px;
+    border: 0.5px solid black;
+    padding: 10px 30px 10px 30px;
+    background-color: white;
+    font-size: 15px;
+}
+
+.monthly-income {
+    margin-right: 400px;
+    font-size: 15px;
+}
+
+.income-input {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 8px;
+    margin-right: 15px;
+}
+
+#income {
+    margin-left: 39px;
+    margin-right: 5px;
+}
+
+#income_input {
+    margin-left: 40px;
+    margin-right: 10px;
+    
+}
+
+.monthly-expenses {
+    margin-right: 385px;
+    font-size: 15px;
+}
+
+.expenses-input {
+    font-size: 15px;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.expense-1 {
+    margin: 10px;
+    margin-right: 40px;
+}
+
+#rent_mortgage {
+    margin-left: 101px;
+    margin-right: 3px;
+}
+
+#TextBox_rent {
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.expense-2 {
+    margin: 10px;
+    margin-left: 42px;
+}
+
+#hydro {
+    margin-left: 70px;
+    margin-right: 5px;
+}
+
+#TextBox_hydro {
+    margin-left: 95px;
+    margin-right: 50px;
+}
+
+.expense-3 {
+    margin: 10px;
+    margin-left: 72px;
+}
+
+#heating_cooling {
+    margin-left: 40px;
+    margin-right: 5px;
+}
+
+#TextBox_heating {
+    margin-left: 13px;
+    margin-right: 25px;
+}
+
+.expense-4 {
+    margin: 10px;
+    margin-left: 72px;
+}
+
+#cable {
+    margin-left: 40px;
+    margin-right: 5px;
+}
+
+#TextBox_cable {
+    margin-left: 95px;
+    margin-right: 25px;
+}
+
+.expense-5 {
+    margin: 10px;
+    margin-left: 73px;
+}
+
+#phone {
+    margin-left: 40px;
+    margin-right: 5px;
+}
+
+#TextBox_phone {
+    margin-left: 94px;
+    margin-right: 25px;
+}
+
+.total-expenses {
+    margin: 10px;
+    margin-left: 71px;
+}
+
+#total_label {
+    margin-left: 40px;
+    margin-right: 5px;
+}
+
+#total_output {
+    margin-left: 30px;
+    margin-right: 25px;
+}
+
+.balance {
+    margin: 10px;
+    margin-left: 195px;
+}
+
+#balance_label {
+    margin-left: 60px;
+    margin-right: 5px;
+    font-size: 15px;
+}
+
+#balance_output {
+    margin-left: 40px;
+    margin-right: 25px;
+    width: 800px;
+    padding-left: 100px;
+}
