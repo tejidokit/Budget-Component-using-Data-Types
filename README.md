@@ -1,9 +1,6 @@
 # Budget-Component-using-Data-Types
 
-
-
-
-
+![](mybudgetgif.gif)
 
 
 
