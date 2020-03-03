@@ -2,7 +2,8 @@
 
 ![](budgetgif.gif)
 
-Objective: This mini project showcases the concepts of variables and the sequential programming structure.
+Objective: Showcases the concepts of variables, using Data Types and the sequential programming structure in C#. <br/><br/>
+
 Technologies used: <br/>
 
 * HTML/CSS-Flexbox <br/>
