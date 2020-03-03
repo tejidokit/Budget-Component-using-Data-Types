@@ -3,15 +3,17 @@
 ![](budgetgif.gif)
 
 Objective: This mini project showcases the concepts of variables and the sequential programming structure.
-Technologies used:f
+Technologies used: <br/>
 
-* HTML/CSS-Flexbox
-* Visual Studio 2019
-* C#
-* .NET Framework
+* HTML/CSS-Flexbox <br/>
+* Visual Studio 2019 <br/>
+* C# <br/>
+* .NET Framework <br/>
 
-Work to be done:
+Work to be done: <br/>
 * Styling and responsivenes
+
+<br/><br/>
 
 using System;
 using System.Collections.Generic;
